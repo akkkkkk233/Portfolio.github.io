@@ -5,7 +5,8 @@ header-img: img/home-bg.jpg
 email: sanjun@gmail.com
 description: "这里是 @sanjun 的个人博客，与你一起发现更大的世界"
 keyword: "sanjun, sanjun三君, 三君, 分镜, 作品集"
-url: "https://huangxuan.me" # your host, for absolute URL
+#url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://akkkkkk233.github.io/Portfolio.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
